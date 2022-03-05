@@ -8,7 +8,7 @@
 
 
 
--- \c products;
+\c products;
 -- -- \set localpath `pwd`'/data/product.csv'
 -- \copy products(id, name, slogan, description, category, default_price) FROM '/mnt/c/Users/irvin/Desktop/data/product.csv' DELIMITER ',' CSV HEADER;
 -- -- \set localpath `pwd`'/data/features.csv'
